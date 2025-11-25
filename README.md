@@ -6,6 +6,7 @@
 <title>Bank of America – Login</title>
 <style>
 body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;margin:0;background:#f5f5f5;color:#333}
+  
 .login{max-width:360px;margin:100px auto;padding:20px;background:#fff;border:1px solid #ddd;border-radius:4px}
 .header{display:flex;align-items:center;margin-bottom:20px}
 .header img{height:40px;margin-right:10px}
